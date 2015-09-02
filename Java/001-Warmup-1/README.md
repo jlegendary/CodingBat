@@ -24,3 +24,6 @@ Java Problems:
 | 18 | Warmup-1 | in1020 | [Java](Java/001-Warmup-1/018-in1020/in1020.java) |
 | 19 | Warmup-1 | hasTeen | [Java](Java/001-Warmup-1/019-hasTeen/hasTeen.java) |
 | 20 | Warmup-1 | loneTeen | [Java](Java/001-Warmup-1/020-loneTeen/loneTeen.java) |
+| 21 | Warmup-1 | delDel | [Java](Java/001-Warmup-1/021-delDel/delDel.java) |
+| 22 | Warmup-1 | mixStart | [Java](Java/001-Warmup-1/022-mixStart/mixStart.java) |
+| 23 | Warmup-1 | startOz | [Java](Java/001-Warmup-1/023-startOz/startOz.java) |
