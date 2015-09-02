@@ -15,3 +15,12 @@ Java Problems:
 | 9 | Warmup-1 | notString | [Java](Java/001-Warmup-1/009-notString/notString.java) |
 | 10 | Warmup-1 | missingChar | [Java](Java/001-Warmup-1/010-missingChar/missingChar.java) |
 | 11 | Warmup-1 | frontBack | [Java](Java/001-Warmup-1/011-frontBack/frontBack.java) |
+| 12 | Warmup-1 | front3 | [Java](Java/001-Warmup-1/012-front3/front3.java) |
+| 13 | Warmup-1 | backAround | [Java](Java/001-Warmup-1/013-backAround/backAround.java) |
+| 14 | Warmup-1 | or35 | [Java](Java/001-Warmup-1/014-or35/or35.java) |
+| 15 | Warmup-1 | front22 | [Java](Java/001-Warmup-1/015-front22/front22.java) |
+| 16 | Warmup-1 | startHi | [Java](Java/001-Warmup-1/016-startHi/startHi.java) |
+| 17 | Warmup-1 | icyHot | [Java](Java/001-Warmup-1/017-icyHot/icyHot.java) |
+| 18 | Warmup-1 | in1020 | [Java](Java/001-Warmup-1/018-in1020/in1020.java) |
+| 19 | Warmup-1 | hasTeen | [Java](Java/001-Warmup-1/019-hasTeen/hasTeen.java) |
+| 20 | Warmup-1 | loneTeen | [Java](Java/001-Warmup-1/020-loneTeen/loneTeen.java) |
