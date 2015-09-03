@@ -27,3 +27,12 @@ Java Problems:
 | 21 | Warmup-1 | delDel | [Java](Java/001-Warmup-1/021-delDel/delDel.java) |
 | 22 | Warmup-1 | mixStart | [Java](Java/001-Warmup-1/022-mixStart/mixStart.java) |
 | 23 | Warmup-1 | startOz | [Java](Java/001-Warmup-1/023-startOz/startOz.java) |
+| 24 | Warmup-1 | intMax | [Java](Java/001-Warmup-1/024-intMax/intMax.java) |
+| 25 | Warmup-1 | close10 | [Java](Java/001-Warmup-1/025-close10/close10.java) |
+| 26 | Warmup-1 | in3050 | [Java](Java/001-Warmup-1/026-in3050/in3050.java) |
+| 27 | Warmup-1 | max1020 | [Java](Java/001-Warmup-1/027-max1020/max1020.java) |
+| 28 | Warmup-1 | stringE | [Java](Java/001-Warmup-1/028-stringE/stringE.java) |
+| 29 | Warmup-1 | lastDigit | [Java](Java/001-Warmup-1/029-lastDigit/lastDigit.java) |
+| 30 | Warmup-1 | endUp | [Java](Java/001-Warmup-1/030-endUp/endUp.java) |
+| 31 | Warmup-1 | everyNth | [Java](Java/001-Warmup-1/031-everyNth/everyNth.java) |
+
