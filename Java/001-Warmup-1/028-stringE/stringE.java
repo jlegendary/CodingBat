@@ -6,4 +6,4 @@ public boolean stringE(String str) {
    }
    
    return (eCount >=1 && eCount <=3);
-}
+} 
