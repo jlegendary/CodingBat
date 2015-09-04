@@ -7,4 +7,4 @@ public String withoutX(String str) {
       str = str.substring(0,str.length()-1);
       
    return str;
-}
+} 
