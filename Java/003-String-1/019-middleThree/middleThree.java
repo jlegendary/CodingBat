@@ -5,3 +5,4 @@ public String middleThree(String str) {
    
    return str.substring(strLen/2 - 1, strLen/2 + 2);
 }
+ 
