@@ -7,4 +7,4 @@ public int maxTriple(int[] nums) {
    if (nums[end]> highest) highest =nums[end];
    
    return highest;
-}
+} 
