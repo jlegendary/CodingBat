@@ -7,5 +7,5 @@ public boolean either24(int[] nums) {
       if (nums[i]==4 && nums[i+1]==4) four = true;
    }
    
-   return two ^ four;
+   return two ^ four; 
 }
