@@ -1,7 +1,7 @@
 014 - Java - Array-2
 =====================
 
-either24
+either24 
 ----------
 
 Problem:  
