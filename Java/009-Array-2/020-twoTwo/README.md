@@ -1,7 +1,7 @@
 020 - Java - Array-2
 =====================
 
-twoTwo 
+twoTwo
 --------
 
 Problem:  
