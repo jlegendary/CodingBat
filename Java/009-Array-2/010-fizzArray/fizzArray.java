@@ -3,4 +3,4 @@ public int[] fizzArray(int n) {
    for (int i=0; i<n; i++)
       result[i] = i;
    return result;
-}
+} 
