@@ -10,3 +10,4 @@ public int[] evenOdd(int[] nums) {
          res[oddPosit--] = nums[i];
    return res;
 }
+ 
