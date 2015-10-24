@@ -9,4 +9,4 @@ Given an array of strings, return a new array containing the first N strings. N 
 >
 wordsFront({"a", "b", "c", "d"}, 1) → {"a"}  
 wordsFront({"a", "b", "c", "d"}, 2) → {"a", "b"}  
-wordsFront({"a", "b", "c", "d"}, 3) → {"a", "b", "c"}  
+wordsFront({"a", "b", "c", "d"}, 3) → {"a", "b", "c"}   
